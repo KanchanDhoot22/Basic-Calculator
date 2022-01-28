@@ -38,7 +38,7 @@ h1{
     font-family: 'Architects Daughter', cursive;
 }
 body{
-    background-image: url('../images/cbg.jpg');
+    background : url('../images/cbg.jpg');
     height: 100%;
     width: 100%;
     background-repeat: no-repeat;
